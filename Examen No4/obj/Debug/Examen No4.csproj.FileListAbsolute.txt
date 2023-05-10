@@ -1,0 +1,7 @@
+C:\Users\USUARIO\source\repos\Examen No4\Examen No4\obj\Debug\Examen No4.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Examen No4\Examen No4\obj\Debug\Examen No4.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Examen No4\Examen No4\bin\Debug\Examen No4.exe.config
+C:\Users\USUARIO\source\repos\Examen No4\Examen No4\bin\Debug\Examen No4.exe
+C:\Users\USUARIO\source\repos\Examen No4\Examen No4\bin\Debug\Examen No4.pdb
+C:\Users\USUARIO\source\repos\Examen No4\Examen No4\obj\Debug\Examen No4.exe
+C:\Users\USUARIO\source\repos\Examen No4\Examen No4\obj\Debug\Examen No4.pdb
